@@ -1,6 +1,6 @@
-# PytorchUltimate
+# Data Structures and Algorithms: The Complete Masterclass
 
-This repo holds material for the Udemy course _**PyTorch Ultimate: From Basics to Cutting-Edge**_. You can find the course under [this link](https://www.udemy.com/course/pytorch-ultimate/).
+# PytorchUltimate
 
 # Environment Installation 
 
